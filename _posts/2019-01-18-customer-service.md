@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Jekyll
-author: jane
+author: Ahmed
 categories:
 - Jekyll
 - tutorial
